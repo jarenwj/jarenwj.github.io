@@ -1,12 +1,13 @@
 ---
 title: 历史与文化的交汇点：怀化
 date: 2024-05-25 21:07:26
-index_img: /img/posts-index-img/hunan-huaihua.jpg
-banner_img:
+index_img: /img/posts/hunan-huaihua-index.jpg
+banner_img: /img/posts/hunan-huaihua-banner.jpg
 description: 2023年5月和好友前往湖南怀化
 categories:
     - Journey
 tags:
+    - HuNan
 ---
 
 
