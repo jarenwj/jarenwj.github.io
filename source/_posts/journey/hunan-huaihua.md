@@ -19,6 +19,12 @@ tags:
 
 ![1](./hunan-huaihua/01.jpg)
 
+![1](/img/posts/hunan-huaihua-index.jpg)
+
+![1](01.jpg)
+
+![1](hunan-huaihua/01.jpg)
+
 # 洪江古商城
 
 # 安江农校
