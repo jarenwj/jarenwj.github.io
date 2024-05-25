@@ -100,6 +100,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
+# theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -107,3 +108,7 @@ deploy:
   type: git
   repo: git@github.com:jarenwj/jarenwj.github.io.git
   branch: main
+
+
+# Automatically excerpt description in homepage as preamble text.
+excerpt_description: true

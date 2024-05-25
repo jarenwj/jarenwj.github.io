@@ -1,38 +1,18 @@
 ---
-title: Hello World
+title: Welcome to my website!
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+<!-- I have a Bachelor's degree in EE from Sichuan University, and I am currently pursuing a Master's degree in SE at the University of Science and Technology of China. -->
 
-## Quick Start
+<hr>
 
-### Create a new post
+### This is a record of my life.
 
-``` bash
-$ hexo new "My New Post"
-```
+<hr>
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### About me:
+Email: <jarenw@163.com> 
 
-### Run server
+[My Notebook](https://jarenwa.github.io/notebook/#/)
 
-``` bash
-$ hexo server
-```
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+<hr>
