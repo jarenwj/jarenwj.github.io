@@ -18,11 +18,11 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: /img/fluid.png
+favicon: /img/wj.png
 
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: /img/fluid.png
+apple_touch_icon: /img/wj.png
 
 # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -322,7 +322,8 @@ iconfont: //at.alicdn.com/t/font_1736178_lbnruvf0jn.css
 navbar:
   # 导航栏左侧的标题，为空则按 hexo config 中 `title` 显示
   # The title on the left side of the navigation bar. If empty, it is based on `title` in hexo config
-  blog_title: "Fluid"
+  # blog_title: "Fluid"
+  blog_title: "Jaren's Corner"
 
   # 导航栏毛玻璃特效，实验性功能，可能会造成页面滚动掉帧和抖动，部分浏览器不支持会自动不生效
   # Navigation bar frosted glass special animation. It is an experimental feature
@@ -423,6 +424,8 @@ footer:
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
     <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+    <hr>
+    Email: jarenw@163.com
   '
 
   # 展示网站的 PV、UV 统计数
@@ -440,13 +443,13 @@ footer:
   beian:
     enable: false
     # ICP证号
-    icp_text: 京ICP证123456号
+    icp_text: '' # 京ICP证123456号
     # 公安备案号，不填则只显示ICP
-    police_text: 京公网安备12345678号
+    police_text: '' # 京公网安备12345678号
     # 公安备案的编号，用于URL跳转查询
-    police_code: 12345678
+    police_code: '' # 12345678
     # 公安备案的图片. 为空时不显示备案图片
-    police_icon: /img/police_beian.png
+    police_icon: '' # /img/police_beian.png
 
 
 #---------------------------
@@ -475,7 +478,8 @@ index:
 
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on `subtitle` in hexo config
-    text: "An elegant Material-Design theme for Hexo"
+    # text: "An elegant Material-Design theme for Hexo"
+    text: "This is a record of my life!"
 
     # 通过 API 接口作为首页副标题的内容，必须返回的是 JSON 格式，如果请求失败则按 text 字段显示，该功能必须先开启 typing 打字机功能
     # Subtitle of the homepage through the API, must be returned a JSON. If the request fails, it will be displayed in `text` value. This feature must first enable the typing animation
@@ -951,15 +955,15 @@ about:
   banner_img: /img/default.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: /img/avatar.png
-  name: "Fluid"
-  intro: "An elegant theme for Hexo"
+  avatar: /img/wj.png
+  name: "Jaren"
+  intro: "I studied EE at Sichuan University from 2019 to 2023, and now I am pursuing a master's degree in SE at the University of Science and Technology of China."
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
-    - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
-    - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
+  - { class: "iconfont icon-books", link: "https://jarenwa.github.io/notebook/#/", tip: "NoteBook" }
+  #   - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
+  #   - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
 
 
 #---------------------------
