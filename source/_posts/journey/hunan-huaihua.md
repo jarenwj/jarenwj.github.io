@@ -17,7 +17,7 @@ tags:
 
 # 黔阳古城
 
-![01](/_posts/journey/hunan-huaihua/01.jpg)
+![01](/source/_posts/journey/hunan-huaihua/01.jpg)
 
 # 洪江古商城
 
