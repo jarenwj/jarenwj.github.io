@@ -17,7 +17,7 @@ tags:
 
 # 黔阳古城
 
-![当天夜里黔阳古城的沅水之滨](./hunan-huaihua/01.jpg)
+![当天夜里黔阳古城的沅水之滨](hunan-huaihua/01.jpg)
 
 # 洪江古商城
 
