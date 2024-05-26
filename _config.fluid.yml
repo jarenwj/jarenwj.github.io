@@ -954,10 +954,10 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://jarenimg.oss-cn-chengdu.aliyuncs.com/hexo/default.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: /img/wj.png
+  avatar: https://jarenimg.oss-cn-chengdu.aliyuncs.com/hexo/wj.png
   name: "Jaren"
   intro: "I studied EE at Sichuan University from 2019 to 2023, and now I am pursuing a master's degree in SE at the University of Science and Technology of China."
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
