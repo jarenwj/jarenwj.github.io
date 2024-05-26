@@ -17,13 +17,8 @@ tags:
 
 # 黔阳古城
 
-![1](./hunan-huaihua/01.jpg)
+![当晚黔阳古城外的沅水边](https://jarenimg.oss-cn-chengdu.aliyuncs.com/hexo/2023-11-24%20221426(32).jpg)
 
-![1](/img/posts/hunan-huaihua-index.jpg)
-
-![1](01.jpg)
-
-![1](https://ts1.cn.mm.bing.net/th/id/R-C.82ece114307f62dc0b8aa2c366b9ef37?rik=GwmaljjvGJ75zg&riu=http%3a%2f%2fimg.pconline.com.cn%2fimages%2fupload%2fupc%2ftx%2fwallpaper%2f1308%2f15%2fc2%2f24494094_1376530595238.jpg&ehk=L%2fNVdWJDsmRvIsmKuuUcvCGnK4DJwpxad4JswscWIN0%3d&risl=&pid=ImgRaw&r=0)
 
 # 洪江古商城
 
